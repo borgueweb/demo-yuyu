@@ -1,0 +1,26 @@
+.hero {
+  background: url("../../assets/img/v13_50.png") center / cover no-repeat;
+}
+
+.progress {
+  height: 31px;
+}
+
+.r21 {
+  border-radius: 21px;
+}
+
+.r8 {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.r52 {
+  border-radius: 52px;
+}
+
+img {
+}
+
